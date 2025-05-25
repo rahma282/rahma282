@@ -5,9 +5,9 @@
 
 ### 👩‍💻 About Me
 
-- 💻 I'm a full-stack software engineer with a focus on **JavaScript**, **TypeScript**, and **open source technologies**
-- 🎓 Graduated from Faculty of Disability Sciences and Rehabilitation, shifted to tech through the **ITI 9-Month Scholarship**
-- 🌱 Currently expanding my expertise in **NestJS**, **Django**, and **Java**
+- 💻 I'm a software engineer with a focus on **Java**, **JavaScript**, **Python**, and **open source technologies**
+- 🎓 **ITI 9-Month Scholarship**
+- 🌱 Currently expanding my expertise in **NestJS**, **Django**, and **Ruby On Rails**
 - 🚀 Passionate about building clean, scalable applications and solving real-world problems
 - 📫 How to reach me: [rahma-mostafaa](https://linkedin.com/in/rahma-mostafaa)
 
