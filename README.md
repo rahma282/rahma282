@@ -61,7 +61,7 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahma282&hide_border=true" alt="GitHub Streak"/>
 </p>
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahma282&layout=compact" alt="rahma282" />
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahma282&layout=compact" alt="rahma282" />
 </p>
 
 ---
