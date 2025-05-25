@@ -6,8 +6,8 @@
 ### 👩‍💻 About Me
 
 - 💻 I'm a software engineer with a focus on **Java**, **JavaScript**, **Python**, and **open source technologies**
-- 🎓 **ITI 9-Month Scholarship**
-- 🌱 Currently expanding my expertise in **NestJS**, **Django**, and **Ruby On Rails**
+- 🎓 **ITI 9-Month Scholarship – Open Source Application Development Track**
+- 🌱 Currently expanding my expertise in **NodeJS**, **NestJS**, **Django**, and **Ruby On Rails**
 - 🚀 Passionate about building clean, scalable applications and solving real-world problems
 - 📫 How to reach me: [rahma-mostafaa](https://linkedin.com/in/rahma-mostafaa)
 
