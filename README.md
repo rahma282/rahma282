@@ -54,15 +54,18 @@
 
 ---
 
-### 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahma-mostafaa)
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahma282&show_icons=true&theme=default" alt="rahma282" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahma282&layout=compact" alt="rahma282" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahma282&show_icons=true&theme=default" alt="rahma282" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahma282&hide_border=true" alt="GitHub Streak"/>
 </p>
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahma282&layout=compact" alt="rahma282" />
+</p>
+
+---
+<!-- Snake -->
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  </p>
