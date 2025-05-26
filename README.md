@@ -5,7 +5,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 - 💻 I'm a software engineer with a focus on **Java**, **JavaScript**, **Python**, and **open source technologies**
-- 🎓 **ITI 9-Month Scholarship – Open Source Application Development Track**
+- 🎓 **ITI 9-Month Scholarship – Open Source Applications Development Track**
 - 🌱 Currently expanding my expertise in **NodeJS**, **NestJS**, **Django**, and **Ruby On Rails**
 - 🚀 Passionate about building clean, scalable applications and solving real-world problems
 - 📫 How to reach me: [rahma-mostafaa](https://linkedin.com/in/rahma-mostafaa)
