@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Passionate about Web Development & Open Source</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;ITI+Diploma+Holder;Open-Source" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;ITI+Diploma+Holder;Open-Source" alt="Typing SVG" />
 </p>
 
 ---
